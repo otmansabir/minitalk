@@ -115,10 +115,6 @@ Your layout may differ, but a common structure is:
 - Be careful with global state in signal handlers; keep handlers minimal.
 - Printing inside a signal handler should use async-signal-safe functions (e.g., `write`).
 
-## License
-
-If applicable, add your preferred license here.
-
 ## Author
 
 - otmansabir — https://github.com/otmansabir
